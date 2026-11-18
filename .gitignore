@@ -1,0 +1,17 @@
+# Python byte code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.venv/
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
