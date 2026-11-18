@@ -10,8 +10,8 @@ A systematic, hands-on roadmap implemented from scratch to master machine learni
 ai-ml-dl-agentic-mastery/
 ├── 01_ml_fundamentals/
 │   ├── 01_linear_and_logistic_regression/   [✅ Completed]
-│   ├── 02_regularization_and_diagnostics/   [⏳ Next]
-│   ├── 03_knn_and_distance_metrics/
+│   ├── 02_regularization_and_diagnostics/   [✅ Completed]
+│   ├── 03_knn_and_distance_metrics/         [⏳ Next]
 │   └── 04_kmeans_and_pca/
 ├── 02_trees_and_tabular/
 │   ├── 05_decision_tree_scratch/
