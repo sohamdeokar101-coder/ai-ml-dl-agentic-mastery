@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Executive Summary (In Plain English)
+## 📌 Executive Summary
 
 Most machine learning models (like Linear Regression or Neural Networks) are **eager learners**: they spend time computing weights during training and throw away the raw training data.
 
