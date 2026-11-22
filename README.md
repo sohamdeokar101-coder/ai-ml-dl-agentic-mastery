@@ -12,9 +12,9 @@ ai-ml-dl-agentic-mastery/
 │   ├── 01_linear_and_logistic_regression/   [✅ Completed]
 │   ├── 02_regularization_and_diagnostics/   [✅ Completed]
 │   ├── 03_knn_and_distance_metrics/         [✅ Completed]
-│   └── 04_kmeans_and_pca/                   [⏳ Next]
+│   └── 04_kmeans_and_pca/                   [✅ Completed]
 ├── 02_trees_and_tabular/
-│   ├── 05_decision_tree_scratch/
+│   ├── 05_decision_tree_scratch/            [⏳ Next]
 │   ├── 06_random_forest_and_xgboost/
 │   └── 07_shap_and_lime_explainability/
 ├── 03_deep_learning_core/
