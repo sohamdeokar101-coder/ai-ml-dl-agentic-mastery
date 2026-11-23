@@ -16,8 +16,11 @@ env/
 .vscode/
 .idea/
 
-# Deep-dive study notes (keep strictly local on SSD, never push to GitHub)
+# Deep-dive study notes & PDFs (keep strictly local on SSD, never push to GitHub)
 NOTES.md
 notes.md
 **/NOTES.md
 **/notes.md
+*.pdf
+**/*.pdf
+NOTES.pdf
