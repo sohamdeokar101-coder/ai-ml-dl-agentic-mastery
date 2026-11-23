@@ -15,8 +15,8 @@ ai-ml-dl-agentic-mastery/
 │   └── 04_kmeans_and_pca/                   [✅ Completed]
 ├── 02_trees_and_tabular/
 │   ├── 05_decision_tree_scratch/            [✅ Completed]
-│   ├── 06_random_forest_and_xgboost/        [⏳ Next]
-│   └── 07_shap_and_lime_explainability/
+│   ├── 06_random_forest_and_xgboost/        [✅ Completed]
+│   └── 07_shap_and_lime_explainability/     [⏳ Next]
 ├── 03_deep_learning_core/
 │   ├── 08_micro_autograd_engine/
 │   └── 09_pytorch_dnn_custom_loop/
