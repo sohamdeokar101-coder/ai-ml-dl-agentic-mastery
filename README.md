@@ -47,7 +47,7 @@ ai-ml-dl-agentic-mastery/
 - [x] **Project 2:** L1/L2 Regularization, Polynomial Features & Bias-Variance Diagnostics
 - [x] **Project 3:** K-Nearest Neighbors & High-Dimensional Distance Metrics
 - [x] **Project 4:** K-Means Clustering & PCA Dimensionality Reduction
-- [ ] **Project 5:** Decision Trees (CART from scratch)
+- [x] **Project 5:** Decision Trees (CART from scratch)
 - [ ] **Project 6:** Random Forests & Tuned XGBoost Pipeline
 - [ ] **Project 7:** Model Explainability with SHAP & LIME
 - [ ] **Project 8:** Micro Autograd Engine (Reverse-Mode AD) & MLP
