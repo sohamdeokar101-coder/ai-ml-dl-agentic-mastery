@@ -48,7 +48,7 @@ ai-ml-dl-agentic-mastery/
 - [x] **Project 3:** K-Nearest Neighbors & High-Dimensional Distance Metrics
 - [x] **Project 4:** K-Means Clustering & PCA Dimensionality Reduction
 - [x] **Project 5:** Decision Trees (CART from scratch)
-- [ ] **Project 6:** Random Forests & Tuned XGBoost Pipeline
+- [x] **Project 6:** Random Forests & Tuned XGBoost Pipeline
 - [ ] **Project 7:** Model Explainability with SHAP & LIME
 - [ ] **Project 8:** Micro Autograd Engine (Reverse-Mode AD) & MLP
 - [ ] **Project 9:** Deep Neural Network in PyTorch with Custom Training Loop
