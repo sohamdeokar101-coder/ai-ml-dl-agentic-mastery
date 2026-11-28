@@ -16,7 +16,7 @@ ai-ml-dl-agentic-mastery/
 ├── 02_trees_and_tabular/
 │   ├── 05_decision_tree_scratch/            [✅ Completed]
 │   ├── 06_random_forest_and_xgboost/        [✅ Completed]
-│   └── 07_shap_and_lime_explainability/     [⏳ Next]
+│   └── 07_shap_and_lime_explainability/     [✅ Completed]
 ├── 03_deep_learning_core/
 │   ├── 08_micro_autograd_engine/
 │   └── 09_pytorch_dnn_custom_loop/
@@ -49,7 +49,7 @@ ai-ml-dl-agentic-mastery/
 - [x] **Project 4:** K-Means Clustering & PCA Dimensionality Reduction
 - [x] **Project 5:** Decision Trees (CART from scratch)
 - [x] **Project 6:** Random Forests & Tuned XGBoost Pipeline
-- [ ] **Project 7:** Model Explainability with SHAP & LIME
+- [x] **Project 7:** Model Explainability with SHAP & LIME
 - [ ] **Project 8:** Micro Autograd Engine (Reverse-Mode AD) & MLP
 - [ ] **Project 9:** Deep Neural Network in PyTorch with Custom Training Loop
 - [ ] **Project 10:** Convolutional Neural Networks (CNN) on CIFAR-10
